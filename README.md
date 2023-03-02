@@ -22,7 +22,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" height="50" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" height="50" width="50"/>
   </div>
+  
+---
+  
+<div align="center">
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladimircs-dev&show_icons=true&locale=en&layout=compact" alt="vladimircs-dev" /></p>
 </div>
+
 
 <!--
 **VladimirCS-Dev/VladimirCS-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
